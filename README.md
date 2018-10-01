@@ -1,7 +1,7 @@
 # Learning-Data-Structures-Algorithms
 Project covers all the important topics in Data Structure and Algorithm. It consist all the common interview question problem solution. 
 
-###Topics
+### Topics
 
 ## Array
 ### [AnagramCheck](https://github.com/chiradeepbanerjee1990/Learning-Data-Structures-Algorithms/blob/master/src/Array/AnagramCheck.java) 
