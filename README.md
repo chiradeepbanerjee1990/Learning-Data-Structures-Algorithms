@@ -15,6 +15,8 @@ Project covers all the important topics in Data Structure and Algorithm. It cons
 ## Implementation and Various functionalities
 ### [Whole Package](https://github.com/chiradeepbanerjee1990/Learning-Data-Structures-Algorithms/tree/master/src/LinkedList)
 
+It consist insertion of node at Middle, Start, end and removal of node at middle, start and end. Creation of linked list. Traversing of linked list.
+
 
 
 
