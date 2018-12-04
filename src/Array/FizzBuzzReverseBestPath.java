@@ -173,7 +173,7 @@ public class FizzBuzzReverseBestPath {
                         && buzzArr[buzzArrIndex] > fizzBuzzArr[fizzbuzzArrIndex]) {
                     fizzbuzzArrIndex = fizzbuzzArrIndex + 1;
                 }
-                callRecursively(inputArr, myList, 100000, fizzArrIndex, buzzArrIndex, fizzbuzzArrIndex);
+                callRecursively(inputArr, myList, fizzArrIndex, buzzArrIndex, fizzbuzzArrIndex);
             } else {
                 //Only for this particular iteration
                 myUniqueSet = new HashSet<>(myList);
