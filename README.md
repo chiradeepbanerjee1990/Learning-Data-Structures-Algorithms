@@ -1,5 +1,6 @@
 # Learning-Data-Structures-Algorithms
-Project covers all the important topics in Data Structure and Algorithm. It consist all the common interview question problem solution. 
+Project covers all the important topics in Data Structure and Algorithm chapter wise along with Leedcode problems divided into
+Easy, Medium and Hard topics. The aim of this repository is to bring all the most important questions asked in top product companies and their solution.
 
 ### Topics
 
@@ -14,8 +15,17 @@ Project covers all the important topics in Data Structure and Algorithm. It cons
 
 ## Implementation and Various functionalities
 ### [Whole Package](https://github.com/chiradeepbanerjee1990/Learning-Data-Structures-Algorithms/tree/master/src/LinkedList)
+It consists insertion of node at Middle, Start, end and removal of node at middle, start and end. Creation of linked list. Traversing of linked list.
 
-It consist insertion of node at Middle, Start, end and removal of node at middle, start and end. Creation of linked list. Traversing of linked list.
+## LeetCode (In Progress)
+
+## Easy
+
+## Hard
+
+## Medium
+
+
 
 
 
