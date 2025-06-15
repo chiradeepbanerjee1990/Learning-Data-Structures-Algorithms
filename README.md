@@ -19,11 +19,24 @@ It consists insertion of node at Middle, Start, end and removal of node at middl
 
 ## LeetCode (In Progress)
 
-## Easy
+### Easy 
+
+### [CountingBits] (https://github.com/chiradeepbanerjee1990/Learning-Data-Structures-Algorithms/blob/master/src/Leetcode/Easy/CountingBits.kt)
+### [GCDOfString] (https://github.com/chiradeepbanerjee1990/Learning-Data-Structures-Algorithms/blob/master/src/Leetcode/Easy/GCDOfString.kt)
+### [MergeStringsAlternatively] (https://github.com/chiradeepbanerjee1990/Learning-Data-Structures-Algorithms/blob/master/src/Leetcode/Easy/MergeStringsAlternatively.kt)
+### [ReverseVowels] (https://github.com/chiradeepbanerjee1990/Learning-Data-Structures-Algorithms/blob/master/src/Leetcode/Easy/ReverseVowels.kt)
+### [TwoSum] (https://github.com/chiradeepbanerjee1990/Learning-Data-Structures-Algorithms/blob/master/src/Leetcode/Easy/TwoSum.kt)
+### [ValidParentheses] (https://github.com/chiradeepbanerjee1990/Learning-Data-Structures-Algorithms/blob/master/src/Leetcode/Easy/ValidParentheses.kt)
+
+## Medium
+
+### [DeleteMiddleNodeOfLinkedList] (https://github.com/chiradeepbanerjee1990/Learning-Data-Structures-Algorithms/blob/master/src/Leetcode/Medium/DeleteMiddleNodeOfLinkedList.kt)
+### [LeafSimilarTree] (https://github.com/chiradeepbanerjee1990/Learning-Data-Structures-Algorithms/blob/master/src/Leetcode/Medium/LeafSimilarTree.kt)
+### [OddEvenLinkedList] (https://github.com/chiradeepbanerjee1990/Learning-Data-Structures-Algorithms/blob/master/src/Leetcode/Medium/OddEvenLinkedList.kt)
+### [ReverseWords] (https://github.com/chiradeepbanerjee1990/Learning-Data-Structures-Algorithms/blob/master/src/Leetcode/Medium/ReverseWords.kt)
 
 ## Hard
 
-## Medium
 
 
 
