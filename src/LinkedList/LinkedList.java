@@ -1,7 +1,5 @@
 package LinkedList;
 
-import sun.org.mozilla.javascript.internal.ast.ThrowStatement;
-
 /**
  * Created by Chiradeep Banerjee
  * Email : chiradeep.banerjee72@gmail.com.
